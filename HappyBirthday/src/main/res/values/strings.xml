@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="happy_birthday_message">Happy Birthday John!</string>
+    <string name="descr">Today is your special day! Hope you have a birthday filled with great joy and cheer!</string>
+</resources>
