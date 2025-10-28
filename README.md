@@ -5,4 +5,5 @@
 <p> Features a birthday card.</p>
 
 ## <ins>Screenshots</ins>
-![Screenshot of the page.](Screenshots/page.PNG)
+![Screenshot of the page.](Screenshots/page.png)
+
